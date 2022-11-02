@@ -1,4 +1,4 @@
-var hora = 2
+var hora = 3
 if(hora < 12 && hora >= 5) {
     console.log(`Agora são exatamente ${hora} horas da manhã`)
     console.log('Bom Dia')
